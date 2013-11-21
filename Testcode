@@ -1,0 +1,10 @@
+public class doug {
+  public static void main(String[] args) {
+    if(doug == cool) {
+      System.out.println("Doug is cool");
+    }
+  }
+    else {
+      System.out.println("Doug is mega cool");
+  }
+}
